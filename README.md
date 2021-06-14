@@ -6,12 +6,13 @@
 
 ## 🚀 *About me*
 
-I'm a frontend web and mobile developer.I am enthusiastic about Web and Mobile App Development, I always keep myself up to date on what's new in that world by building side projects and reading tech articles. I am a big believer in Open Source Technologies.
+I am enthusiastic about Web and Mobile App Development, I always keep myself up to date on what's new in that world by building side projects and reading tech articles. I am a big believer in Open Source Technologies.
 
 ## ⚒ *My Experience*
 
-
-
+- Experience in developing Responsive websites.
+- Experience in developing back end services and process, also have worked with Oracle SQL.
+- Have experience in working in domains such as content management, healthcare, etc.
 
 ## 👨‍💻 *My Tech Stack*:
 
@@ -25,6 +26,7 @@ I'm a frontend web and mobile developer.I am enthusiastic about Web and Mobile A
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23323330.svg?&style=for-the-badge&logo=typescript&logoColor=%23F7DF1E" style="margin:2px;"/>
 <img alt="ExpressJs" src="https://img.shields.io/badge/expressjs%20-%23323330.svg?&style=for-the-badge&logo=express&logoColor=white" style="margin:2px;"/>
+<img alt="OracleSQL" src="https://img.shields.io/badge/OracleSQL%20-%23323330.svg?&style=for-the-badge&logo=oracle&logoColor=red" style="margin:2px;"/>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" style="margin:2px;"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
