@@ -11,8 +11,8 @@ I am enthusiastic about Web and Mobile App Development, I always keep myself up 
 ## ⚒ *My Experience*
 
 - Experience in developing Responsive websites.
-- Experience in developing back end services and process, also have worked with Oracle SQL.
-- Have experience in working in domains such as content management, healthcare, etc.
+- Experience in developing back-end services and processes, also have worked with Oracle SQL.
+- Have experience in working in domains such as financial service, content management, healthcare, etc.
 
 ## 👨‍💻 *My Tech Stack*:
 
