@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/luvgadhvi?tab=repositories">
-    <img src="https://raw.githubusercontent.com/luvgadhvi/luvgadhvi/refs/heads/main/Hello_World_Luv.webp" width="450" height="250" alt="Hello World, I'm Luv">
+    <img src="https://raw.githubusercontent.com/luvgadhvi/luvgadhvi/refs/heads/main/Luv_Github_Hello.jpg" width="450" height="250" alt="Hello World, I'm Luv">
   </a>
 </div>
 
